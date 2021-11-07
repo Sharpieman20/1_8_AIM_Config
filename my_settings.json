@@ -20,5 +20,6 @@
     "borderless": false,
     "auto-launch": true,
     "move-old-worlds": false,
+    "run-custom-background-ahk-script": true,
     "use-beta": false
 }
