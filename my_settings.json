@@ -13,6 +13,7 @@
     "multi-mc-path":  "C:/Users/TestUser/Applications/MultiMC/MultiMC.exe",
     "num-instances": 3,
     "max-concurrent": 2,
+    "min-time-for-settings-reset": 99999999.0,
     "fullscreen": false,
     "borderless": false,
     "auto-launch": true,
