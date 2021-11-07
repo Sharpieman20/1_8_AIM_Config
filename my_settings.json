@@ -1,0 +1,20 @@
+{
+    "hotkeys": {
+        "reset-active": "U",
+        "reset-focused": "H",
+        "approve-focused": "J",
+        "toggle-hotkeys": "R",
+        "background-debug": "Q",
+        "background-pause": "T",
+        "unfreeze-all": "|"
+    },
+    "template-instance": "1.8INST",
+    "version": "1.8",
+    "multi-mc-path":  "C:/Users/TestUser/Applications/MultiMC/MultiMC.exe",
+    "num-instances": 3,
+    "max-concurrent": 2,
+    "fullscreen": false,
+    "borderless": false,
+    "auto-launch": true,
+    "use-beta": false
+}
